@@ -9,7 +9,7 @@ This project focuses on clean layout, intuitive navigation, and a smooth user ex
 ## 🎨 Figma Prototype
 
 👉 High‑fidelity screens (not interactive):  
-[Open APOD Explorer Design](PASTE_YOUR_FIGMA_LINK_HERE)
+[Open APOD Explorer Design](https://www.figma.com/design/4DRYBewKFvHIjQ3WQuF9OJ/APOD-Explorer?node-id=0-1&t=P7YxKCBsAUTx7IWL-1))
 
 ---
 
@@ -30,6 +30,7 @@ This project focuses on clean layout, intuitive navigation, and a smooth user ex
 - Designed high‑fidelity screens in Figma  
 - Focused on accessibility, readability, and visual hierarchy  
 - Created a consistent visual style using dark mode + accent colours  
+<img width="1213" height="911" alt="Screenshot 2026-02-18 130554" src="https://github.com/user-attachments/assets/344a9ae0-9b77-4f00-9c8c-47b14c052afb" />
 
 ---
 
@@ -44,7 +45,8 @@ This project focuses on clean layout, intuitive navigation, and a smooth user ex
 
 ## 📸 Screenshots
 
-### **High‑Fidelity Screens (All in One View)**  
-![APOD Screens](https://github.com/user-attachments/assets/4BEpsAp7Fzv9GmpdBs5Z5)
+## 📸 Screenshots
 
+### **High‑Fidelity Screens (All in One View)**  
+![APOD Screens](https://github.com/user-attachments/assets/5a8b40c8-304c-472f-ae9d-730ea0aed13f)
 
